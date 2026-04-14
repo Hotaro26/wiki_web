@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wiki App</title>
+</head>
+<body style="font-family: Arial; text-align: center; padding: 40px;">
+
+    <h1>🌐 Wikipedia Search</h1>
+
+    <form method="POST">
+        <input type="text" name="topic" placeholder="Enter topic" required>
+        <button type="submit">Search</button>
+    </form>
+
+    {% if result %}
+        <h2>{{ result.title }}</h2>
+        
+        {% if result.image %}
+            <img src="{{ result.image }}" width="200"><br><br>
+        {% endif %}
+        
+        <p style="max-width: 600px; margin: auto;">
+            {{ result.summary }}
+        </p>
+    {% endif %}
+
+</body>
+</html>
