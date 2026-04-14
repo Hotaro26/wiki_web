@@ -73,4 +73,4 @@ This project uses several Python libraries:
 - `colorama`: (Assuming) For the colored terminal output.
 
 ---
-*Created by [Your Name]*
+
