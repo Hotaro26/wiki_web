@@ -1,6 +1,3 @@
-Based on your project structure and description, here is a comprehensive and professional `README.md` file you can use.
-
-***
 
 # Wiki Scraper & Web App
 
