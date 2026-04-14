@@ -73,4 +73,12 @@ This project uses several Python libraries:
 - `colorama`: (Assuming) For the colored terminal output.
 
 ---
+<img width="942" height="760" alt="image" src="https://github.com/user-attachments/assets/81030780-7959-4382-890c-bb899f704ba0" />
+<img width="936" height="666" alt="image" src="https://github.com/user-attachments/assets/fa925192-3081-4d3f-844e-a4e9d7d79f7c" />
+<img width="892" height="606" alt="image" src="https://github.com/user-attachments/assets/fe366f7f-c3d1-4439-b619-c6ad72ee7736" />
+<img width="895" height="459" alt="image" src="https://github.com/user-attachments/assets/c5c691a5-b889-425a-9df8-f69e6380ec6a" />
+
+
+
+
 
